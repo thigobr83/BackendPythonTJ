@@ -1,0 +1,120 @@
+2021-05-27 19:16:06,022 - client - INFO - Create client >> Cliente 127.0.0.1:51642
+2021-05-27 19:17:55,823 - client - INFO - Create client >> Cliente 127.0.0.1:51667
+2021-05-27 19:25:12,344 - client - INFO - Create client >> Cliente 127.0.0.1:51733
+2021-05-27 19:25:12,346 - client - INFO - client 127.0.0.1:51733
+2021-05-27 19:30:29,926 - client - INFO - Create client >> Cliente 127.0.0.1:51844
+2021-05-27 19:30:29,927 - client - INFO - client 127.0.0.1:51844
+2021-05-27 19:31:19,894 - client - INFO - Create client >> Cliente 127.0.0.1:51855
+2021-05-27 19:31:19,897 - client - INFO - client 127.0.0.1:51855
+2021-05-27 19:31:19,898 - client - INFO - client 0.01099395751953125
+2021-05-27 19:31:38,317 - client - INFO - Create client >> Cliente 127.0.0.1:51863
+2021-05-27 19:31:38,319 - client - INFO - client 127.0.0.1:51863
+2021-05-27 19:31:38,319 - client - INFO - time 0.0069942474365234375
+2021-05-27 20:01:57,011 - client - INFO - Create client >> Cliente 127.0.0.1:52338
+2021-05-27 20:01:57,012 - client - INFO - client 127.0.0.1:52338
+2021-05-27 20:01:57,013 - client - INFO - time response >> 0.004996538162231445
+2021-05-27 20:19:36,390 - client - INFO - Create client >> Cliente 127.0.0.1:52775
+2021-05-27 20:19:36,391 - client - INFO - client 127.0.0.1:52775
+2021-05-27 20:19:36,391 - client - INFO - time response >> 0.003995418548583984
+2021-05-27 20:20:40,049 - client - INFO - client 127.0.0.1:52777
+2021-05-27 20:20:40,049 - client - INFO - time response >> 0.0009999275207519531
+2021-05-27 20:20:40,082 - client - INFO - client 127.0.0.1:52777
+2021-05-27 20:20:40,082 - client - INFO - time response >> 0.0009987354278564453
+2021-05-27 20:36:36,353 - client - INFO - client 127.0.0.1:52975
+2021-05-27 20:36:36,353 - client - INFO - time response >> 0.0009987354278564453
+2021-05-27 20:36:36,363 - client - INFO - client 127.0.0.1:52975
+2021-05-27 20:36:36,363 - client - INFO - time response >> 0.0049974918365478516
+2021-05-27 20:36:42,129 - client - INFO - client 127.0.0.1:52976
+2021-05-27 20:36:42,130 - client - INFO - time response >> 0.00099945068359375
+2021-05-27 20:36:42,132 - client - INFO - client 127.0.0.1:52976
+2021-05-27 20:36:42,132 - client - INFO - time response >> 0.0
+2021-05-27 20:36:50,482 - client - INFO - client 127.0.0.1:52977
+2021-05-27 20:36:50,483 - client - INFO - time response >> 0.0020029544830322266
+2021-05-27 20:36:50,490 - client - INFO - client 127.0.0.1:52977
+2021-05-27 20:36:50,490 - client - INFO - time response >> 0.0009980201721191406
+2021-05-27 20:37:04,316 - client - INFO - client 127.0.0.1:52978
+2021-05-27 20:37:04,316 - client - INFO - time response >> 0.0010004043579101562
+2021-05-27 20:37:04,319 - client - INFO - client 127.0.0.1:52978
+2021-05-27 20:37:04,319 - client - INFO - time response >> 0.0009996891021728516
+2021-05-27 20:37:46,843 - client - INFO - client 127.0.0.1:52983
+2021-05-27 20:37:46,843 - client - INFO - time response >> 0.00099945068359375
+2021-05-27 20:37:46,846 - client - INFO - client 127.0.0.1:52983
+2021-05-27 20:37:46,847 - client - INFO - time response >> 0.0009982585906982422
+2021-05-27 20:38:05,528 - client - INFO - client 127.0.0.1:52984
+2021-05-27 20:38:05,528 - client - INFO - time response >> 0.0009989738464355469
+2021-05-27 20:38:05,531 - client - INFO - client 127.0.0.1:52984
+2021-05-27 20:38:05,532 - client - INFO - time response >> 0.0009965896606445312
+2021-05-27 20:38:24,418 - client - INFO - client 127.0.0.1:52985
+2021-05-27 20:38:24,418 - client - INFO - time response >> 0.007994890213012695
+2021-05-27 20:38:24,425 - client - INFO - client 127.0.0.1:52985
+2021-05-27 20:38:24,425 - client - INFO - time response >> 0.0
+2021-05-27 20:38:40,650 - client - INFO - client 127.0.0.1:52992
+2021-05-27 20:38:40,650 - client - INFO - time response >> 0.0009984970092773438
+2021-05-27 20:38:40,654 - client - INFO - client 127.0.0.1:52992
+2021-05-27 20:38:40,654 - client - INFO - time response >> 0.0
+2021-05-27 20:38:50,124 - client - INFO - client 127.0.0.1:52993
+2021-05-27 20:38:50,124 - client - INFO - time response >> 0.001001596450805664
+2021-05-27 20:38:50,127 - client - INFO - client 127.0.0.1:52993
+2021-05-27 20:38:50,128 - client - INFO - time response >> 0.0009989738464355469
+2021-05-27 20:39:04,707 - client - INFO - client 127.0.0.1:52998
+2021-05-27 20:39:04,707 - client - INFO - time response >> 0.07294416427612305
+2021-05-27 20:40:52,010 - client - INFO - client 127.0.0.1:53015
+2021-05-27 20:40:52,010 - client - INFO - time response >> 0.0039942264556884766
+2021-05-27 20:42:12,318 - client - INFO - client 127.0.0.1:53029
+2021-05-27 20:42:12,318 - client - INFO - time response >> 0.0029985904693603516
+2021-05-27 20:42:26,761 - client - INFO - client 127.0.0.1:53045
+2021-05-27 20:42:26,761 - client - INFO - time response >> 0.0019991397857666016
+2021-05-27 20:49:41,925 - client - INFO - client 127.0.0.1:53139
+2021-05-27 20:49:41,925 - client - INFO - time response >> 0.000997781753540039
+2021-05-27 20:50:02,304 - client - INFO - client 127.0.0.1:53147
+2021-05-27 20:50:02,304 - client - INFO - time response >> 0.0009984970092773438
+2021-05-27 20:56:45,452 - client - INFO - client 127.0.0.1:53236
+2021-05-27 20:56:45,452 - client - INFO - time response >> 0.0714876651763916
+2021-05-27 20:57:13,395 - client - INFO - client 127.0.0.1:53241
+2021-05-27 20:57:13,395 - client - INFO - time response >> 0.0010008811950683594
+2021-06-01 20:40:50,462 - client - INFO - client 127.0.0.1:58929
+2021-06-01 20:40:50,475 - client - INFO - time response >> 0.12047719955444336
+2021-06-01 20:41:02,248 - client - INFO - client 127.0.0.1:58932
+2021-06-01 20:41:02,248 - client - INFO - time response >> 0.0019986629486083984
+2021-06-01 20:41:20,324 - client - INFO - client 127.0.0.1:58933
+2021-06-01 20:41:20,324 - client - INFO - time response >> 0.8962512016296387
+2021-06-02 20:38:49,598 - client - INFO - client 127.0.0.1:58026
+2021-06-02 20:38:49,607 - client - INFO - time response >> 1.9023785591125488
+2021-06-02 20:40:22,446 - client - INFO - client 127.0.0.1:58051
+2021-06-02 20:40:22,447 - client - INFO - time response >> 1.3219499588012695
+2021-06-02 20:43:01,637 - client - INFO - client 127.0.0.1:58076
+2021-06-02 20:43:01,637 - client - INFO - time response >> 0.14323091506958008
+2021-06-02 20:43:09,948 - client - INFO - client 127.0.0.1:58077
+2021-06-02 20:43:09,948 - client - INFO - time response >> 0.0009987354278564453
+2021-06-02 20:43:13,531 - client - INFO - client 127.0.0.1:58077
+2021-06-02 20:43:13,531 - client - INFO - time response >> 0.1129302978515625
+2021-06-02 20:43:18,514 - client - INFO - client 127.0.0.1:58077
+2021-06-02 20:43:18,515 - client - INFO - time response >> 0.11396002769470215
+2021-06-02 20:44:08,203 - client - INFO - client 127.0.0.1:58096
+2021-06-02 20:44:08,203 - client - INFO - time response >> 0.16794228553771973
+2021-06-02 20:44:21,654 - client - INFO - client 127.0.0.1:58099
+2021-06-02 20:44:21,654 - client - INFO - time response >> 0.13798308372497559
+2021-06-02 20:44:50,563 - client - INFO - client 127.0.0.1:58103
+2021-06-02 20:44:50,563 - client - INFO - time response >> 0.11692667007446289
+2021-06-02 20:47:59,930 - client - INFO - client 127.0.0.1:58132
+2021-06-02 20:47:59,930 - client - INFO - time response >> 0.11695170402526855
+2021-06-02 20:48:14,100 - client - INFO - client 127.0.0.1:58133
+2021-06-02 20:48:14,100 - client - INFO - time response >> 0.11792755126953125
+2021-06-02 20:48:40,107 - client - INFO - client 127.0.0.1:58135
+2021-06-02 20:48:40,107 - client - INFO - time response >> 0.12151694297790527
+2021-06-02 20:50:02,834 - client - INFO - client 127.0.0.1:58161
+2021-06-02 20:50:02,834 - client - INFO - time response >> 0.11992502212524414
+2021-06-02 20:57:54,960 - client - INFO - client 127.0.0.1:58372
+2021-06-02 20:57:54,960 - client - INFO - time response >> 0.0009982585906982422
+2021-06-02 20:58:29,419 - client - INFO - client 127.0.0.1:58373
+2021-06-02 20:58:29,419 - client - INFO - time response >> 0.24526715278625488
+2021-06-03 19:28:24,865 - client - INFO - client 127.0.0.1:49242
+2021-06-03 19:28:24,871 - client - INFO - time response >> 0.07899594306945801
+2021-06-03 19:31:46,434 - client - INFO - client 127.0.0.1:49295
+2021-06-03 19:31:46,434 - client - INFO - time response >> 1.7766351699829102
+2021-06-03 19:31:59,202 - client - INFO - client 127.0.0.1:49308
+2021-06-03 19:31:59,202 - client - INFO - time response >> 0.24397850036621094
+2021-06-03 19:35:30,065 - client - INFO - client 127.0.0.1:49364
+2021-06-03 19:35:30,065 - client - INFO - time response >> 0.0010001659393310547
+2021-06-03 19:35:45,702 - client - INFO - client 127.0.0.1:49367
+2021-06-03 19:35:45,702 - client - INFO - time response >> 0.1831367015838623
